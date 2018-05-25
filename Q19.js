@@ -8,3 +8,8 @@
 // The first console log should print 5.
 // The second console log should print "equal".
 // The third console log should print -3.
+
+function maxof2(){
+
+}
+

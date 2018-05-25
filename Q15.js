@@ -18,3 +18,9 @@
 var currentGen = 1;
 var totalGen = 19;
 var totalMW = 0;
+
+while(currentGen<19){
+	console.log(`Generator #${currentGen} is on, adding 124 MW, for a total of ${totalMW} MW!`);
+	currentGen++;
+}
+//Understood what I needed to do but did not know what to do, I have to master the loops.

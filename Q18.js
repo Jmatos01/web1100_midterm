@@ -4,5 +4,17 @@
 //
 // Then make 3 console logs calling (running) your sum function inside of them.
 // Then first console log should print the number 8.
-// Then first console log should print the number 13.
-// Then first console log should print the number -3.
+// Then second console log should print the number 13.
+// Then third console log should print the number -3.
+//function sum(a, b) {
+  //  var a = 8;
+    //var b = 5;
+    //return a + b;
+    //console.log(sum)
+  //}
+  var a = 8
+  var b = 5
+
+  console.log(a, a+b, b-a)
+  
+
